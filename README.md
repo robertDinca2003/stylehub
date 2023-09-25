@@ -1,5 +1,9 @@
-Preview
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+# Preview
+
+
+
+https://github.com/robertDinca2003/stylehub/assets/71851178/f35bb999-1a95-4bfc-8027-ce118d33c842
+
 
 
 # Getting Started with Create React App
