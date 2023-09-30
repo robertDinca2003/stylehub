@@ -31,11 +31,11 @@ The website is designed with a responsive layout, ensuring that it looks and wor
 
 # Skills
 
-  - React, used for creating the layout and functionalities of the website
-  - TailwindCSS, used for responsive design and for styling the apperance of the website
-  - Netlify, used for deploy the live demo of the website
-  - PhotoShop, used for creating the necessary assets for the website
-  - Axios, used to call APIs to get acces to the list of products
+  - React, used for creating the layout and functionalities of the website.
+  - TailwindCSS, used for responsive design and for styling the apperance of the website.
+  - Netlify, used for deploy the live demo of the website.
+  - PhotoShop, used for creating the necessary assets for the website.
+  - Axios, used to call APIs to get acces to the list of products.
 
 # Getting Started with Create React App
 
