@@ -1,6 +1,6 @@
-### Style Hub - E-Commerce Site
+# Style Hub - E-Commerce Site
 
-# Access a live demo
+## Access a live demo
 
 https://style-hub-demo.netlify.app/
 
@@ -24,10 +24,10 @@ The website is designed with a responsive layout, ensuring that it looks and wor
 
 # Competence
 
-  - Showing the ability to build a fully functional and production ready app.
-  - Adaptability, I can adapt to any challenge appears in the process of development.
-  - Responsive designes, almost every resolution and support from widths of 230px up to 3840px and beyound. From mobile to desktops, all devices are supported.
-  - Testing and Debugging, all apps through development have problems, I indentified the problems by testing in all ways the funtionalities of the website. After indentifing the bug, I have solved them in a way that they do not occure again.
+-  Showing the ability to build a fully functional and production ready app.
+-  Adaptability, I can adapt to any challenge appears in the process of development.
+-  Responsive designes, almost every resolution and support from widths of 230px up to 3840px and beyound. From mobile to desktops, all devices are supported.
+-  Testing and Debugging, all apps through development have problems, I indentified the problems by testing in all ways the funtionalities of the website. After indentifing the bug, I have solved them in a way that they do not occure again.
 
 # Skills
 
