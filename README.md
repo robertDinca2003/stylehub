@@ -1,10 +1,41 @@
-# Preview
+### Style Hub - E-Commerce Site
 
+# Access a live demo
 
+https://style-hub-demo.netlify.app/
+
+## Preview
 
 https://github.com/robertDinca2003/stylehub/assets/71851178/f35bb999-1a95-4bfc-8027-ce118d33c842
 
+# Description
 
+  Style Hub is a dynamic e-commerce platform powered by React and styled with TailwindCSS, designed to provide a seamless and visually appealing shopping experience. Leveraging APIs to access a vast range of curated products.Our website features a robust and user-friendly shopping cart system.
+Shoppers can easily add, remove, and modify items in their cart with just a few clicks.
+The website is designed with a responsive layout, ensuring that it looks and works seamlessly on a variety of devices, from desktop computers to smartphones and tablets.
+
+# Usefull Tasks Completed
+
+- Accessing API's with the help of Axios.
+- Working with JSON files.
+- Designing a multipage web aplication.
+- Creating a shopping cart system, using local store storage to save for later web accesses.
+- Creating a contact system for clients to get in touch.
+
+# Competence
+
+  - Showing the ability to build a fully functional and production ready app.
+  - Adaptability, I can adapt to any challenge appears in the process of development.
+  - Responsive designes, almost every resolution and support from widths of 230px up to 3840px and beyound. From mobile to desktops, all devices are supported.
+  - Testing and Debugging, all apps through development have problems, I indentified the problems by testing in all ways the funtionalities of the website. After indentifing the bug, I have solved them in a way that they do not occure again.
+
+# Skills
+
+  - React, used for creating the layout and functionalities of the website
+  - TailwindCSS, used for responsive design and for styling the apperance of the website
+  - Netlify, used for deploy the live demo of the website
+  - PhotoShop, used for creating the necessary assets for the website
+  - Axios, used to call APIs to get acces to the list of products
 
 # Getting Started with Create React App
 
